@@ -12,5 +12,5 @@
 
 * 纠正讨论，点击发起 [Issues](https://github.com/Eastern-subversive/mind-map/issues)
 * 参与修正，可以`Frok`项目，修改后，提起`pull request`
-* 加入组织，更希望大家加入组织进行原创以及修正，[通过Email发送github账户名，加入组织](Mailto:sunyichao_believe@yahoo.com)
+* 加入组织，更希望大家加入组织进行原创以及修正，[通过Email发送github账户名，加入组织](Mailto:sunyichao_believe@yahoo.com?subject=Apply%20For%20Eastern-subversive-member)
 
