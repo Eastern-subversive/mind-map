@@ -15,9 +15,9 @@
 
 * 转载，请注明来源
 
-  > 本文引用自：https://github.com/Eastern-subversive/mind-map
+  > 本文脑图参考自：https://github.com/Eastern-subversive/mind-map
   >
-  > 欢迎转载，请注明来源
+  > 欢迎转载、引用，请注明来源，鼓励原创
   >
   > 如果您有兴趣参与制作，请联系在Github上Fork或者联系作者
 
