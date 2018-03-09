@@ -1,9 +1,13 @@
 # mind-map
 在程序员的道路上总结的一些思维脑图。
 
+![](./Picture/Sample2.png)
+
+![](./Picture/Sample1.png)
+
+
+
 目前使用xmind软件制作，您可以在这里[下载免费版本的xmind](http://www.xmindchina.net/xiazai.html)
-
-
 
 声明：
 
